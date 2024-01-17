@@ -34,8 +34,6 @@ jobs:
       run:
         working-directory: docs
     steps:
-      - name: Display GitHub Workspace
-          run: echo "GitHub Workspace: ${{ github.workspace }}"
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
