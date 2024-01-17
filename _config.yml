@@ -5,5 +5,5 @@ theme: just-the-docs
 url: https://nikolaandro.github.io/squids_learning/
 color_scheme: dark
 
-plugins:
-  - jekyll-default-layout
+#plugins:
+#  - jekyll-default-layout
